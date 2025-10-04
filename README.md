@@ -1,5 +1,9 @@
 # Gmail Extension with Auth Backend
 
+# Demo
+
+[Demo](https://github.com/user-attachments/assets/787adb0c-26df-4749-ab82-c5bb630dc340)
+
 This project consists of two main components:
 1. **Gmail Extension** - A Chrome extension that integrates with Gmail using InboxSDK
 2. **Auth Backend** - A backend service for handling Pipedream authentication using Express.js and Bun
